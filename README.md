@@ -1,5 +1,5 @@
 # public-microbiome
-* [Data Collection Plan](https://github.com/xbiome/public-microbiome/Plan_HH_20190517.docx)
+* [Data Collection Plan](https://github.com/xbiome/public-microbiome/blob/master/Plan_HH_20190517.docx)
 
 ## public-ASD
 
