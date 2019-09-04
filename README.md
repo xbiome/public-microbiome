@@ -4,10 +4,9 @@
 ## public-ASD
 
 ### Data list
-## The Slides
-
 * [List of ASD Datasets](https://github.com/xbiome/public-microbiome/ASD/ASD_public_data2collect)
 
+## The Slides
 * [ASD-Human](https://github.com/xbiome/public-microbiome/ASD/Human)
 * [ASD-Mice](https://github.com/xbiome/public-microbiome/ASD/Mice)
 
